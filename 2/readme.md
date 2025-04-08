@@ -1,0 +1,1 @@
+Датасет: https://www.kaggle.com/datasets/trolukovich/food5k-image-dataset?select=evaluation
